@@ -3,7 +3,7 @@ A simple web to search for restaurants nearby.
 
 
 ## Features
-+ listing restaurans from restaurants api
++ listing restaurants from restaurants api
 + searching restaurants by restaurants' name
 + clicking into specific restaruant to gain further informaton including description of the restaurants, location, phone number, etc.
 
