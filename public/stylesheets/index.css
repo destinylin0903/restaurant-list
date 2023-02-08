@@ -35,6 +35,11 @@ header {
   color: #9b4b4b;
 }
 
+.input-group-append {
+  display: flex;
+  align-items: center;
+}
+
 .form-control::placeholder {
   color: #aaaaaa;
   font-size: 0.8rem;
