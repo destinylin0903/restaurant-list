@@ -69,7 +69,7 @@ header {
   white-space: nowrap;
 }
 
-.restaurant-category {
+.restaurant-category, .restaurant.rating {
   color: #666666;
   font-size: 0.8rem;
 }
